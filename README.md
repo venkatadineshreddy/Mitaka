@@ -12,6 +12,9 @@ Inside of code, we are using the only 2 interfaces(Host only). Here we are using
 
 All 2 VMs should communicate with each other and with ansible node.
 
+Software Versions
+i. Ubuntu 14.04
+ii. Ansible 2.4
    
 And edit the below two file.
 
