@@ -27,5 +27,4 @@ And you can simply install the OpenStack with single command from openstack_main
 #command:-
 ansible-playbook -i inventory/ openstack_main.yml -vvv
 --------------------------------------------------------
-P Venkata Dinesh Reddy
-
+P. VENKATA DINESH REDDY
